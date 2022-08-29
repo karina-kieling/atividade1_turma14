@@ -7,3 +7,4 @@ git status
 git remote add origin https://
 git push
 git status
+git status
